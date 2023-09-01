@@ -1,0 +1,11 @@
+{
+	"id": "spotify-plugin",
+	"name": "Spotify Mood Plugin",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "This is a plugin used to play music based on the mood of your notes.",
+	"author": "swegbarca",
+	"authorUrl": "https://obsidian.md",
+	"fundingUrl": "https://obsidian.md/pricing",
+	"isDesktopOnly": false
+}

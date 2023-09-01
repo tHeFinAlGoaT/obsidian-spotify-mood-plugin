@@ -1,0 +1,1 @@
+declare module 'apos-to-lex-form';
